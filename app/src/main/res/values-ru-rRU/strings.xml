@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Активность Жизненный цикл</string>
+    <string name="submit">Подтвердить</string>
+    <string name="enter_cat_sound">Введите звук котика</string>
+    <string name="enter_cat_name">Введите имя котика</string>
+    <string name="cat_name">Имя котика:</string>
+    <string name="none">Нет</string>
+    <string name="cat_sound">Звук котика:</string>
+</resources>
